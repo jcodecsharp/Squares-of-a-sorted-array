@@ -1,5 +1,7 @@
 package squares.sortedarray;
 
+// Main method used for testing input
+
 public class Main {
     public static void main(String[] args) {
         int [] nums = {2,1,3,5,4};

@@ -2,6 +2,8 @@ package squares.sortedarray;
 
 import java.util.Arrays;
 
+// Class to square and sort the array
+
 public class Solution {
     public int[] sortedSquares(int[] nums) {
         int arrLength = nums.length;
